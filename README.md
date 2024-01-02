@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is dhanuka
+my name is dhanuka chamalitha
 
 <!--
 **DhanukaChamalitha/DhanukaChamalitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
